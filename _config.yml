@@ -1,5 +1,5 @@
 # main text of home
-name: Jacob Laboissonniere
+name: 'Jacob Laboissonniere'
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -35,14 +35,14 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: jacoblab1
+ twitter: jacoblab1
 # google: mygoogle
  instagram: jacoblab1
 # pinterest: mypinterest
  linkedin: jacoblaboissonniere
  youtube: jacoblab1
 # spotify: myspotify
-github: jacoblab1
+ github: jacoblab1
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: jacoblab1
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+ email: jacoblab1tube@gmail.com
 
 authors:
     jacoblaboissonniere:
