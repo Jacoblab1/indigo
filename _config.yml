@@ -3,12 +3,12 @@ about: true
 animation: true
 authors:
   jacoblaboissonniere:
-    bio: "A Man who travels the world eating noodles"
+    bio: "Third year Software Engineering (Co-op) at Carleton University"
     external-image: false
     name: "Jacob Laboissonniere"
     picture: assets/images/profile.jpg
     twitter: jacoblab1
-bio: "A Man who travels the world eating noodles"
+bio: "Third year Software Engineering (Co-op) at Carleton University"
 blog: true
 description: "A blog about technology and stuff related"
 disqus:
@@ -16,7 +16,7 @@ disqus:
     - blog
     - project
   shortname: mydisqus
-email: jacoblab1tube@gmail.com
+email: jacob.laboissonniere@carleton.ca
 external-image: false
 github: jacoblab1
 instagram: jacoblab1
